@@ -1,0 +1,24 @@
+{
+  "sitemap.xml": {
+    "Protocol": "https",
+    "DomainName": "github.com/Kbro1988/Notes-Public",
+    "Root": "./",
+    "IncludeExt": [
+      ".html",
+      ".php",
+      ".md"
+    ],
+    "Exclude": [],
+    "TagsToInclude": [
+      "priority",
+      "lastmod"
+    ],
+    "DefaultChangeFrequency": "monthly",
+    "TabCharacters": "\t",
+    "bIncludeWWW": true,
+    "bRemoveFileExtentions": false,
+    "bUseTrailingSlash": false,
+    "bAutomaticallyUpdateSitemap": true,
+    "bMinimized": false
+  }
+}
