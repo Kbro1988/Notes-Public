@@ -1,3 +1,0 @@
-# Ansible
-
-Hello world.
