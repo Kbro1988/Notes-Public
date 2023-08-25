@@ -59,6 +59,10 @@ xcode-select --install
 
 - Installation of XCODE and the developer tools can take a long time to install, this is normal.
 
+> [!NOTE]
+>
+> You can also install xcode via the App Store; however, this is a much bigger package and only `xcode-select` is needed for what we're doing.
+
 ### Verify XCODE
 
 ```bash
@@ -214,6 +218,10 @@ pip list
 pip3 list
 tldr pip
 ```
+
+> [!NOTE]
+>
+> If you're seeing `pip3` vs `pip` per example, that factor is dependant on the package alias and installation process. Using [pyenv](#set-up-pyenv) will resolve these discrepancies.
 
 ### Update pip
 

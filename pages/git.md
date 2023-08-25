@@ -20,6 +20,7 @@ The primary goal of source control is to keep track of the history of changes ma
 - [Execution](#execution)
   - [Establish a New, Local Directory](#establish-a-new-local-directory)
   - [Set Branch to 'Main'](#set-branch-to-main)
+  - [Tagging](#tagging)
 - [Quick Command Reference](#quick-command-reference)
 - [References](#references)
 
@@ -173,6 +174,10 @@ If Git was installed correctly your default branch should be `main`. If this is 
 - `git checkout -b main` to establish and move to the `main` branch.
 - `git branch -d master` will delete the `master` branch.
 - `git branch` will allow you to verify current/existing branches.
+
+### Tagging
+
+<https://git-scm.com/book/en/v2/Git-Basics-Tagging>
 
 **[- Back to Top -](#content)**
 
