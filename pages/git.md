@@ -1,8 +1,39 @@
-# Getting Started with Git
+<!-- omit from toc -->
+# Source Control with Git
 
-- Concepts
-- Setup
-- Execution
+Source control, also known as version control or revision control, is a software management practice that involves tracking and managing changes to a set of files, typically used in software development but also applicable to various other disciplines, such as networking.
+
+The primary goal of source control is to keep track of the history of changes made to files and to enable collaboration among multiple contributors.
+
+[GitHub](https://github.com/) is a platform that incorporates source control as one of its core features. GitHub is built around the concept of Git, which is a distributed version control system.
+
+<!-- omit from toc -->
+## Content
+
+- [Concepts](#concepts)
+  - [SCM](#scm)
+  - [Source Control](#source-control)
+  - [Gist](#gist)
+  - [Project](#project)
+  - [Local Directory](#local-directory)
+  - [Local Repository](#local-repository)
+  - [Remote Repository](#remote-repository)
+  - [Branch](#branch)
+  - [Clone](#clone)
+  - [Stage / Index / Cache](#stage--index--cache)
+  - [Commit](#commit)
+  - [Push](#push)
+  - [Pull](#pull)
+  - [Merge](#merge)
+- [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install Git](#install-git)
+  - [Establish Git Config](#establish-git-config)
+  - [Establishing Connection to Source Control](#establishing-connection-to-source-control)
+- [Execution](#execution)
+  - [Establish a New, Local Directory](#establish-a-new-local-directory)
+  - [Set Branch to 'Main'](#set-branch-to-main)
+- [References](#references)
 
 ## Concepts
 
@@ -145,3 +176,7 @@ If Git was installed correctly your default branch should be `main`. If this is 
 - `git checkout -b main` to establish and move to the `main` branch.
 - `git branch -d master` will delete the `master` branch.
 - `git branch` will allow you to verify current/existing branches.
+
+## References
+
+- <https://www.cbtnuggets.com/learn/it-training/ntrdctn-src-cntrl-gt>

@@ -12,7 +12,7 @@ Notes have been categorized into key topics and sequenced in recommended order o
 
 1. [Preparing the Environment](pages/env-prep.md)
 2. [Visual Studio Code](pages/vscode.md)
-3. [Getting Started with Git](pages/git.md)
+3. [Source Control (Git)](pages/git.md)
 4. [Container Engine (Docker)](pages/container-engine.md)
 5. [Ansible](pages/ansible.md)
 6. [Streamlit](pages/streamlit.md)

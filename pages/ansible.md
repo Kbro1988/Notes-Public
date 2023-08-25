@@ -9,7 +9,7 @@ Ansible checks in and verifies that the code is being maintained in its desired 
 
 When we're deploying copies of our network infrastructure for new development teams or app teams or new production environments, we're maintaining that the network behaves the way the code says it behaves.
 
-To properly understand where Ansible fits into the equation, you must have an understanding of [CICD](cicd.md). Imagine the following pipeline:
+A little more of an advanced top, but to properly understand where Ansible fits into the equation, you must have an understanding of [CICD](cicd.md). Imagine the following pipeline:
 
 1. You deploy a network change to source code.
 2. Tests are running confirmed.
