@@ -180,3 +180,11 @@ If Git was installed correctly your default branch should be `main`. If this is 
 ## References
 
 - <https://www.cbtnuggets.com/learn/it-training/ntrdctn-src-cntrl-gt>
+
+**[- Back to Top -](#content)**
+
+---
+
+**[- Notes / NetDevOps -](../..)**
+
+**[- Notes / Home -](../../..)**

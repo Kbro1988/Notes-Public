@@ -1,3 +1,4 @@
+<!-- omit from toc -->
 # Visual Studio Code
 
 Visual Studio Code (VS Code) is a free and open-source code editor developed by Microsoft. It's designed to provide a lightweight yet powerful environment for software development across a wide range of programming languages. VS Code is known for its simplicity, high performance, and extensibility, making it a popular choice among developers of all skill levels.
@@ -9,6 +10,14 @@ You may also access and use a lightweight version of the VS Code in your browser
 <https://vscode.dev/>
 
 VS Code is an extremely powerful tool with a lot of features. I'll simply scratch the surface with some quality of life tips and extensions.
+
+<!-- omit from toc -->
+## Content
+
+- [Recommended Extensions](#recommended-extensions)
+- [Quality of Life Tips](#quality-of-life-tips)
+  - [How to change the default terminal profile in VS Code](#how-to-change-the-default-terminal-profile-in-vs-code)
+  - [How to launch VS Code from your terminal of choice](#how-to-launch-vs-code-from-your-terminal-of-choice)
 
 ## Recommended Extensions
 
@@ -34,3 +43,11 @@ tldr code
 code -n .
 code -a .
 ```
+
+**[- Back to Top -](#content)**
+
+---
+
+**[- Notes / NetDevOps -](../..)**
+
+**[- Notes / Home -](../../..)**

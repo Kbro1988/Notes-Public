@@ -278,7 +278,10 @@ pyenv global 3.10.0
 pyenv version
 ```
 
----
 **[- Back to Top -](#content)**
 
-**[- Back to Main -](../README.md)**
+---
+
+**[- Notes / NetDevOps -](../..)**
+
+**[- Notes / Home -](../../..)**
