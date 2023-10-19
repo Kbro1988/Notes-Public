@@ -179,6 +179,10 @@ If Git was installed correctly your default branch should be `main`. If this is 
 
 <https://git-scm.com/book/en/v2/Git-Basics-Tagging>
 
+### Git Diff
+
+<https://youtu.be/R25rGNWrDKc?si=CHZR6k3x2DH7OJVP>
+
 **[- Back to Top -](#content)**
 
 ## Quick Command Reference
