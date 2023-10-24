@@ -10,4 +10,12 @@
 
 ## ChatGPT
 
+- Generative Pre-trained Transformer
+
 ## Pinecone
+
+ADD:
+
+- Section/Notes: Retriever-Augmented Generation (RAG)
+- Section/Notes: Large language model (LLM)
+  
