@@ -2,8 +2,13 @@
 
 Collection of notes dedicated to my setup and journey into NetDevOps.
 
-- These notes document my experience and may not accommodate your situation in some aspects.
-  - My platform was a Mac and most notes will reflect that. Moreover, it is highly recommended to use a Mac or another Unix/Linux-based platform over Windows.
+- These notes document my experience and may not accommodate your situation in all aspects.
+
+  - My platform was a Mac and most notes will reflect that. Moreover, it is highly recommended to use a Mac or another Unix/Linux-based platform.
+ 
+    > [!NOTE]
+    > If you are running Windows, I would recommend looking into [WSL](https://learn.microsoft.com/en-us/windows/wsl/install).
+
 - There may be some inaccuracies in the documented concepts, as they simply reflect my interpretation along the way. Please let me know if there are any discrepancies and I would be happy to clear things up!
 
 ## Order of Operations
