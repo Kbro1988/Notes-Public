@@ -21,7 +21,9 @@ The primary goal of source control is to keep track of the history of changes ma
   - [Establish a New, Local Directory](#establish-a-new-local-directory)
   - [Set Branch to 'Main'](#set-branch-to-main)
   - [Tagging](#tagging)
+  - [Git Diff](#git-diff)
 - [Quick Command Reference](#quick-command-reference)
+- [Git Sparse](#git-sparse)
 - [References](#references)
 
 ## Terminology
@@ -212,6 +214,45 @@ If Git was installed correctly your default branch should be `main`. If this is 
 | `git clone <URL>` | Clones an existing repository |
 | `git rebase <BRANCH>` | Rebases your current HEAD onto BRANCH |
 | `git stash` | Temporarily stores all modified tracked files |
+
+**[- Back to Top -](#content)**
+
+## Git Sparse
+
+To download a specific directory from a Git repository, you can use the sparse-checkout feature.\
+Here's a step-by-step guide:
+
+1. Create a new directory and initialize a Git repository:
+
+    ```bash
+    mkdir new_directory
+    cd new_directory
+    git init
+    ```
+
+2. Add the remote repository as the origin:
+
+    ```bash
+    git remote add origin <repository_url>
+    ```
+
+3. Enable sparse-checkout:
+
+    ```bash
+    git config core.sparseCheckout true
+    ```
+
+4. Specify the directory you want to download in the sparse-checkout file:
+
+    ```bash
+    echo "path/to/directory" >> .git/info/sparse-checkout
+    ```
+
+5. Pull the content:
+
+    ```bash
+    git pull origin <branch_name>
+    ```
 
 **[- Back to Top -](#content)**
 
